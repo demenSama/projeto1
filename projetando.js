@@ -1,28 +1,22 @@
 //criando projeto usando como base para tudo o if e else. 
 let heroi1 = "jack";
-let xpHero = 15000;
-//variaveis para o projeto
-if (xpHero < 1000){
-    console.log("ferro");
-} else
-    if(xpHero > 1000 && xpHero <=2000){
-        console.log("bronze");
-    }else 
-        if(xpHero>2000 && xpHero <= 5000){
-            console.log("prata");
-        }else 
-            if(xpHero>6000 && xpHero<+7000){
-                console.log("ouro");
-            }else
-                if(xpHero>7000 && xpHero<=8000){
-                    console.log("Platina");
-                }else 
-                    if(xpHero>8000 && xpHero<=9000){
-                        console.log("ascendente");
-                    }else
-                        if(xpHero>9000 && xpHero<=10000){
-                            console.log("imortal");
-                        }else 
-                            if(xpHero>10000){
-                                console.log("Radiante");
-                            }
+let xpHero=0;
+let ranks =["ferro","Bronze","Prata","Ouro","Platina","Ascendente","Imortal","Radiante"]
+let rank;
+//if e elses para os ranks
+if (xpHero<1000){
+    rank=ranks[0]
+}else 
+    if(xpHero>=1000 && xpHero<=2000){
+        rank=ranks[1]
+        
+ //construindo o sistema de repetição para que o xp aumente
+while(xpHero<3000){
+    console.log(heroi1+ "apresenta " +xpHero+" logo ele está no rank "+ rank);
+    xpHero+=1000
+}   }
+
+
+
+
+
