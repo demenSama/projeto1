@@ -1,5 +1,6 @@
-console.log("antes de tudo quero explicar aos profissionais da Dio os quais estão lendo esse codigo que o mesmo apresenta algumas coisas a mais do que foi pedido no desafio, contudo acredito que ele ainda contem o que foi pedido. Obrigado pela atenção");
-console.log("\n");
+//antes de tudo quero explicar aos profissionais da Dio os quais estão lendo esse codigo que o mesmo apresenta algumas coisas a mais do que foi pedido no desafio, 
+//contudo acredito que ele ainda contem o que foi pedido. Obrigado pela atenção
+
 
 //criando projeto usando como base para tudo o if e else. 
 let heroi1 = "jack";
