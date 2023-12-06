@@ -2,7 +2,7 @@
 //contudo acredito que ele ainda contem o que foi pedido. Obrigado pela atenção
 
 
-//criando projeto usando como base para tudo o if e else. 
+//criando variaveis
 let heroi1 = "jack";
 let xpHero=100;
 let ranks =["ferro","Bronze","Prata","Ouro","Platina","Ascendente","Imortal","Radiante"];
