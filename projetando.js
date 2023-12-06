@@ -1,5 +1,5 @@
 //antes de tudo quero explicar aos profissionais da Dio os quais estão lendo esse codigo que o mesmo apresenta algumas coisas a mais do que foi pedido no desafio, 
-//contudo acredito que ele ainda contem o que foi pedido. Obrigado pela atenção
+//contudo acredito que ele ainda contem o que foi pedido. Obrigado pela atenção.
 
 
 //criando variaveis
